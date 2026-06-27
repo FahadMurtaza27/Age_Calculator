@@ -1,2 +1,4 @@
 # Age_Calculator
-The program asks for your DOB and current Date, and then tells your age in Years, months, days
+Author: FahadMurtaza27
+<br>
+The program is an age calculator, that asks for your D.O.B and the date today, and then tell your age in Years, Months and Days
